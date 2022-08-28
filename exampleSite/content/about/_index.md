@@ -16,6 +16,7 @@ socials:
     facebook: "YOUR_NAME"
     linkedin: "YOUR_NAME"
     twitch: "YOUR_NAME"
+    orcid: "YOUR_ORCID"
     google_scholar: "YOUR_NAME"
 
 interests:
